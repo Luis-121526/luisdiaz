@@ -1,0 +1,1 @@
+create database laradex_devolopment
